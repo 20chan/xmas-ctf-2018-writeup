@@ -1,6 +1,8 @@
 # Crypto - Special Christmas Wishlist
 
-디따 큰 이미지가 주어지는데 이미지를 다음 코드로 잘라서 알파벳으로 치환해준다
+![wishlist](/wishlist.png)
+
+위처럼 생긴 암호가 디따 큰 이미지가 주어지는데 이미지를 다음 코드로 잘라서 알파벳으로 치환해준다
 
 ```python
 from PIL import Image, ImageChops
